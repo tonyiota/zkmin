@@ -4,6 +4,8 @@ Minimal Implementation of ZK protocols
 
 ## Info
 
+Repository for ZK implementations and examples. Currently, just a list of resources.
+
 ## Implementations
 
 [BabySNARK](https://github.com/initc3/babySNARK)
