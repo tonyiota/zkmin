@@ -12,8 +12,7 @@ Repository for ZK implementations and examples. Currently, just a list of resour
 1. [Groth16 in Python by zigtur](https://github.com/zigtur/Groth16)
 1. [Groth16 Arkworks](https://github.com/arkworks-rs/groth16)
 1. [Groth16 Python](https://github.com/ret2basic/Groth16)
-
-[stark-from-zero](https://github.com/microbecode/stark-from-zero)
+1. [stark-from-zero](https://github.com/microbecode/stark-from-zero)
 
 ## Resources
 
