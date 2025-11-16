@@ -7,8 +7,11 @@ Minimal Implementation of ZK protocols
 ## Implementations
 
 [BabySNARK](https://github.com/initc3/babySNARK)
+
 [Groth16 in Python by zigtur](https://github.com/zigtur/Groth16)
+
 [Groth16 Arkworks](https://github.com/arkworks-rs/groth16)
+
 [Groth16 Python](https://github.com/ret2basic/Groth16)
 
 ## Resources
@@ -16,13 +19,21 @@ Minimal Implementation of ZK protocols
 ### General
 
 [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+
 [BIU winter school cryptography](https://www.youtube.com/watch?v=cQ-BI1WWzjU&list=PL8Vt-7cSFnw29cLUVqAIuMlg1QJ-szV0K&index=2)
+
 [Succinct Proofs and Linear Algebra - Guillermo Angeris](https://eprint.iacr.org/2023/1478.pdf)
+
 [Sum-check is all you need - Justin Thaler](https://eprint.iacr.org/2025/2041)
+
 [ZK MOOC](https://rdi.berkeley.edu/zk-learning/)
+
 [ZK Whiteboard Sessions](https://zkhack.dev/whiteboard/)
+
 [Awesome Zero Knowledge Proofs List](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+
 [Awesome ZKVM](https://github.com/rkdud007/awesome-zkvm)
+
 [ZKP.science; several references including to Vitalik's introductions](https://zkp.science/)
 
 ### Groth16
@@ -33,11 +44,13 @@ Minimal Implementation of ZK protocols
 ### Plonk
 
 [Plonk a hands on deep dive](https://blog.zksecurity.xyz/posts/plonk-tutorial/)
+
 [David Wong Plonk Walkthrough](https://www.youtube.com/playlist?list=PLBJMt6zV1c7Gh9Utg-Vng2V6EYVidTFCC)
 
 ### GKR
 
 [Vitalik tutorial on GKR](https://vitalik.eth.limo/general/2025/10/19/gkr.html)
+
 [MIT 6.5630 Advanced Topics in Cryptography, Fall 2023; covers GKR](https://www.youtube.com/playlist?list=PLUl4u3cNGP61EZllk7zwgvPbI4kbnKhWz)
 
 ### Misc
