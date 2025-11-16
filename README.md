@@ -30,8 +30,7 @@ Repository for ZK implementations and examples. Currently, just a list of resour
 
 ### Groth16
 
-1. [Remco Bloemen Article](https://xn--2-umb.com/22/groth16/)
-  - [Related video](https://www.youtube.com/watch?v=QDplVkyncYQ)
+1. [Remco Bloemen Article](https://xn--2-umb.com/22/groth16/) and [Related video](https://www.youtube.com/watch?v=QDplVkyncYQ)
 
 ### Plonk
 
